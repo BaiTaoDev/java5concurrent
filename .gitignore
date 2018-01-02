@@ -1,0 +1,10 @@
+**.idea
+**.iml
+**target**
+**app-api**
+**.log
+**.settings
+**.classpath
+**.project
+**rebel.xml
+**out
